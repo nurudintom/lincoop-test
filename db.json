@@ -1,13 +1,31 @@
-[{
-  "id":1,
-  "name":"abcs"
-},
 {
-  "id":2,
-  "name":"abcs dfd"
-},
-{
-  "id":3,
-  "name":"abcs ddgd"
-}]
+  "savings": [
+    {
+      "id":1,
+      "name":"abcs"
+    },
+    {
+      "id":2,
+      "name":"abcs dfd"
+    },
+    {
+      "id":3,
+      "name":"abcs ddgd"
+    }
+  ],
+  "users": [
+    {
+      "id":1,
+      "name":"efgh"
+    },
+    {
+      "id":2,
+      "name":"ijklmn"
+    },
+    {
+      "id":3,
+      "name":"opqrstu"
+    }
+  ],
+}
 
